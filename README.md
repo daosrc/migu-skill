@@ -6,7 +6,9 @@
 
 使用方法参见:  [QwenCode Skill](https://qwenlm.github.io/qwen-code-docs/zh/users/features/skills/)
 
-<img width="2308" height="1498" alt="image" src="https://github.com/user-attachments/assets/831f3138-fb8f-4c95-acdc-a7ff3bf10650" />
+
+<img width="2302" height="736" alt="image" src="https://github.com/user-attachments/assets/5348b1df-7f00-451d-8acd-fd0722736a01" />
+<img width="2666" height="906" alt="image" src="https://github.com/user-attachments/assets/33082ee4-afe3-4a30-b0e7-6f4951090b62" />
 
 
 
